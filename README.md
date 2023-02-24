@@ -1,7 +1,7 @@
 ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Isaac Wambiri — a Software Engineer 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-wambiri-8277a3237/)
-[![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rubytechsolutions.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-@saac-wambiri-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-wambiri-8277a3237/)
+[![Website Badge](https://img.shields.io/badge/-saac-wambiri.com-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rubytechsolutions.github.io/)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akashrajpurohit.visitor-badge&style=flat-square&color=0088cc)
 
