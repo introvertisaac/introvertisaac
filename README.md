@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wambiri Isaac</h1>
-<h3 align="center">A fullstack web, mobile and software developer from Nairobi, Kenya 👋</h3>
+<h3 align="center">A fullstack web, Software & Machine Learning Engineer from Nairobi, Kenya 👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introvertisaac&label=Profile%20views&color=0e75b6&style=flat" alt="introvertisaac" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Blockchain-based-medical-insurance-platform](https://github.com/introvertisaac/Blockchain-based-medical-insurance-platform)
 
-- 🌱 I’m currently learning **NextJS, Django, Typescript, Java**
+- 🌱 I’m currently learning **Solidity, NLTK, Theano, TensorFlow & Scikit-learn **
 
 - 👯 I’m looking to collaborate on [The Makeja Initiative](https://github.com/introvertisaac/Makeja)
 
@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **React, ChartJS, PHP, Javascript, Python**
+- 💬 Ask me about **Blockchain, NextJS & React, Javascript, Python**
 
-- 📫 How to reach me **isaacwambiri254@gmail.com**
+- 📫 How to reach me **isaacwambiri254@gmail.com | wambiriisaac@gmail.com**
 
 - 📄 Know about my experiences [https://personal-portfolio-coral-gamma.vercel.app/](https://personal-portfolio-coral-gamma.vercel.app/)
 
